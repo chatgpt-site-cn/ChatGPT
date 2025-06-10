@@ -2,7 +2,7 @@
 
 > 更新：2025/06/12
 
-欢迎来到 [**ChatGPT 中文版**](https://chat.lanjing.pro) 国内使用指南！在这里，您将学会如何**无需翻墙，轻松上手 ChatGPT**。
+欢迎来到 [**ChatGPT 中文版**](https://chat.lanjingai.org) 国内使用指南！在这里，您将学会如何**无需翻墙，轻松上手 ChatGPT**。
 
 本指南会详细介绍如何在国内使用 [**ChatGPT 中文版**](https://xsimplechat.com)，提供可用的镜像网站，**无限使用GPT-4、4o 和 o1**。
 
@@ -15,9 +15,9 @@
 | 镜像站名称         | 地址                             | 支持版本           | 免费额度 | 注册方式           | 稳定性  | 功能亮点                |
 |--------------------|----------------------------------|--------------------|----------|--------------------|---------|-------------------------|
 | 一下AI            | [chat.yixiaai.com](https://xsimplechat.com/) | GPT-4、4o、o1      | 有       | 扫码即可       | 高      | 支持 AI绘画、AI助手、AI插件、AI PPT等  |
-| AI智慧岛          | [chat.lify.vip](https://chat.lanjing.pro/) | GPT-4o、4o mini、o1 | 有       | 扫码即可       | 高      | 支持多模型，AI写作、AI编程、AI工作~  |
+| AI智慧岛          | [chat.lify.vip](https://chat.lanjingai.org/) | GPT-4o、4o mini、o1 | 有       | 扫码即可       | 高      | 支持多模型，AI写作、AI编程、AI工作~  |
 | AI工具站       | [yixiaai.cn](https://yixiaai.cn/) | GPT-4、o1           | 有       | 扫码即可      | 高      | 稳定快速，各种AI工具~ |
-| AI指南           | [chat.chatgpt-chinese.com](https://chat.lanjing.pro/) | GPT-4、o1           | 有       | 扫码即可   | 高      | AI使用指南            |
+| AI指南           | [chat.chatgpt-chinese.com](https://chat.lanjingai.org/) | GPT-4、o1           | 有       | 扫码即可   | 高      | AI使用指南            |
 | 小鲸鱼AI        | [ai.lansejingyu.com](https://ai.lansejingyu.com/) | GPT-4、4o           | 有       | 扫码即可     | 中      | 界面简洁，易于使用      |
 | 蓝鲸AI            | [lanjing.ai](https://lanjing.pro/) | GPT-4、4o           | 有       | 扫码即可    | 中      | 最新模型支持            |
 
@@ -25,7 +25,7 @@
 
 ## 2. 为什么选择 ChatGPT 中文版？
 
-[ChatGPT 中文版](https://chat.lanjing.pro) 是 OpenAI 的 ChatGPT 模型的本地化版本，专为中文用户量身打造，提供流畅和精准的对话体验。
+[ChatGPT 中文版](https://chat.lanjingai.org) 是 OpenAI 的 ChatGPT 模型的本地化版本，专为中文用户量身打造，提供流畅和精准的对话体验。
 
 与官方版本相比，中文版更加贴合国内用户的使用习惯：
 
@@ -51,7 +51,7 @@
 
 ## 4. 使用 ChatGPT 中文版的方法
 
-1. **选择网站**：访问推荐的镜像站点（如 [chat.lanjing.pro](https://chat.lanjing.pro/)）。
+1. **选择网站**：访问推荐的镜像站点（如 [chat.lanjingai.org](https://chat.lanjingai.org/)）。
 2. **扫码使用**：
    - **扫码登录**：微信扫码，即可使用。
    - **免注册**：直接进入聊天界面，输入问题即可获得解答。
